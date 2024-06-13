@@ -22,7 +22,7 @@ The Custom Business Product Guide generates detailed reports based on the analys
 
 # Note:
 Wait for Response on UI. It can take talk before there is lot of stuff happening in background
-if following Error exists:
+## If Error exists:
     -Your system has an unsupported version of sqlite3. Chroma requires sqlite3 >= 3.35.0.
         #Paste this line in .venv path(.venv/lib/python3.11/site-packages/chromadb/__init__.py)
         '''
