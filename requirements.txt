@@ -1,0 +1,7 @@
+crewai
+crewai['tools']
+langchain
+langchain-openai
+langchain-community
+streamlit
+pysqlite3-binary
