@@ -1,0 +1,2 @@
+# Inroduction
+The Custom Business Product Guide is an advanced tool developed within the crewAI framework, designed to offer comprehensive analysis and insights for businesses on a product of their choice. By leveraging the expertise of three key agents - the Market Research Analyst, the Technology Expert, and the Business Development Consultant - this project aims to provide detailed analysis on various aspects of the specified product, including its pros, cons, competition, and other relevant factors.
