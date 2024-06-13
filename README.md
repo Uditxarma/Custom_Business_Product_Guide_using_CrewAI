@@ -19,3 +19,15 @@ The Business Development Consultant evaluates the viability and sustainability o
 
 ## Comprehensive Reporting: 
 The Custom Business Product Guide generates detailed reports based on the analysis conducted by each agent, providing businesses with actionable insights and recommendations for strategic decision-making.
+
+# Note:
+-if following Error exists:
+    -Your system has an unsupported version of sqlite3. Chroma requires sqlite3 >= 3.35.0.
+        #Paste this line in .venv path(.venv/lib/python3.11/site-packages/chromadb/__init__.py)
+        '''
+        (line 67)
+        if sqlite3.sqlite_version_info < (3, 35, 0):
+                __import__('pysqlite3')
+                import sys
+                sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+        '''
