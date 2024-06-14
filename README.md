@@ -21,7 +21,7 @@ The Business Development Consultant evaluates the viability and sustainability o
 The Custom Business Product Guide generates detailed reports based on the analysis conducted by each agent, providing businesses with actionable insights and recommendations for strategic decision-making.
 
 # Note:
-Wait for Response on UI. It can take talk because there is a lot of stuff happening in background.
+Please wait for a response on the UI. It may take some time as there are numerous background processes running..
 ## If Error exists:
     -Your system has an unsupported version of sqlite3. Chroma requires sqlite3 >= 3.35.0.
         #Paste this line in .venv path(.venv/lib/python3.11/site-packages/chromadb/__init__.py)
