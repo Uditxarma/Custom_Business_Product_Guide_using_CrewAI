@@ -129,7 +129,7 @@ def main():
     st.title("CUSTOM BUSINESS PRODUCT GUIDE")
 
     # Markdown
-    st.subheader(""":red[Great] :orange[minds] :green[discuss] :blue[ideas], :violet[average] :gray[minds] :rainbow[discuss] :red[events], :orange[small] :green[minds] :rainbow[discuss] :red[people]""")
+    # st.subheader(""":red[Great] :orange[minds] :green[discuss] :blue[ideas], :violet[average] :gray[minds] :rainbow[discuss] :red[events], :orange[small] :green[minds] :rainbow[discuss] :red[people]""")
 
     guidance=""
     # sidebar
@@ -144,17 +144,6 @@ def main():
                 guidance = provide_guidance(product_name)
     # st.text_area("")
     st.success(guidance)
-
-    st.markdown(
-    """
-    <style>
-    body {
-        background-color: #f0f0f0;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
 
 if __name__ == "__main__":
     main()
