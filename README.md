@@ -1,7 +1,7 @@
 # Introduction
 Custom Business Product Guide is a tool developed using the crewAI framework, designed to offer comprehensive analysis and insights for businesses on a product of their choice. By leveraging the expertise of three key agents - the Market Research Analyst, the Technology Expert, and the Business Development Consultant - this project aims to provide detailed analysis on various aspects of the specified product, including its pros, cons, competition, and other relevant factors.
 
-# Key Features:Hello everyone
+# Key Features:
 ### Product Analysis: 
 Upon inputting the name of the product, the Custom Business Product Guide conducts an in-depth analysis to uncover its strengths, weaknesses, opportunities, and threats (SWOT analysis). This includes evaluating its features, functionality, and unique selling points.
 
